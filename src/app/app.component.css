@@ -1,0 +1,36 @@
+.hero-lineup {
+  margin-top: 30px;
+  font-family: "Arial Black", sans-serif;
+}
+
+h1 {
+  border-bottom: 4px solid black;
+  color: #fff;
+  background-color: dodgerblue;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+* img {
+  width: 150px;
+  height: 150px;
+}
+
+.hero {
+  padding-bottom: 30px;
+  padding-left: 40px;
+  margin-top: 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+button {
+  color: black;
+  background-size: 30px;
+  background-color: dodgerblue;
+  font-size: x-large;
+  border-radius: 30px;
+  display: block;
+  margin-top: 20px;
+  padding: 10px;
+}
